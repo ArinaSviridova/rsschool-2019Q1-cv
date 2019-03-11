@@ -1,0 +1,11 @@
+﻿body {
+    max-width: 1024px;
+    margin: 0px auto;
+    margin-top: 3%;
+}
+li {
+    margin: 5px;
+}
+img {
+    border: 3px double #B22222;
+}
